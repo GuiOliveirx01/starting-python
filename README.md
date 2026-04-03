@@ -18,7 +18,7 @@ Organização:
 
 python_work/ → programas e exercícios do livro.
 
-desafios / → exercícios extras.
+desafios/ → exercícios extras.
 
 Objetivo:
 
