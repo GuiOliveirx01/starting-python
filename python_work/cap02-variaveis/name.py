@@ -1,18 +1,17 @@
-# Anything enclosed in quotation marks is considered a String.
+# Tudo o que estiver entre aspas é considerado uma string.
 name = "ada lovelace"
 
-# The .title() function capitalizes the first letter of each word.
+# A função .title() deixa a primeira letra de cada palavra maiúscula.
 print(name.title())
 
 name = "Ada Lovelace"
-
-# .upper() converts all letters to uppercase.
+# .upper() converte todas as letras para maiúsculas.
 print(name.upper())
 
-# .lower() converts all letters to lowercase.
+# .lower() converte todas as letras para minúsculas.
 print(name.lower())
 
-# The '+' symbol can combine variables and strings.
+# O símbolo '+' pode combinar variáveis ​​e strings.
 first_name = "ada"
 last_name = "lovelace"
 full_name = first_name + " " + last_name
@@ -20,11 +19,8 @@ message = "Hello, " + full_name.title() + "!"
 print(message)
 
 print("Python")
-
-# '\t' creates a blank space.
+# '\t' cria um espaço em branco.
 print("\tPython")
-
-# '\n' creates a line break..
+# '\n' cria uma quebra de linha.
 print("Languages:\nPython\nC\nJavaScript")
-
 print("Languages:\n\tPython\n\tC\n\tJavaScript")

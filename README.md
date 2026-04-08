@@ -1,26 +1,24 @@
 # starting-python
 Repositório criado para acompanhar minha jornada aprendendo Python.
 
-Fontes de estudo:
-
-* Livro: Curso Intensivo de Python, por Eric Matthes
-
+## Fontes de estudo:
+* Livro Curso Intensivo de Python, por Eric Matthes
 * Aulas presenciais com mentor
+* Site oficial de Python: https://www.python.org/
 
-Conteúdo:
-
+## Conteúdo:
 * Fundamentos da linguagem
 * Lógica de programação
 * Exercícios práticos
 * Projetos simples
 
-Organização:
-
+## Organização:
 python_work/ → programas e exercícios do livro.
+
+projetos/ → ideias para programas e projetos pessoais.
 
 desafios/ → exercícios extras.
 
-Objetivo:
-
+## Objetivo:
 Desenvolver uma base sólida em programação e evoluir até projetos mais avançados.
 

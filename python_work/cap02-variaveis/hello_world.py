@@ -1,7 +1,4 @@
-# print() displays a message to the user.
-print("Hello Python world!")
-
-# Variables store a value that can be used or changed.
+# Variáveis ​​armazenam um valor que pode ser usado ou alterado.
 message = "Hello Python world!"
 print(message)
 

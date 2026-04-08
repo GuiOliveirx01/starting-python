@@ -1,6 +1,6 @@
-Exemplos simples:
+## Exemplos simples
 
-• calculadora
-• jogo de adivinhação
-• sistema de notas
-• gerador de senhas
+* calculadora
+* jogo de adivinhação
+* sistema de notas
+* gerador de senhas
