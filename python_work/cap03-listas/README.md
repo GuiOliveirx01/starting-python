@@ -1,4 +1,4 @@
-# 📘 Capítulo 1 – Introdução às listas
+# 📘 Capítulo 3 – Introdução às listas
 
 ## 📖 Sobre
 
