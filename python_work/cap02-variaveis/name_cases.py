@@ -15,11 +15,11 @@ print(message)
 name = "\n\t Guilherme Oliveira \t\n"
 print(name)
 
-# .lstrip() remove espaços em branco à esquerda.
+# .lstrip() remove espaços em branco à esquerda
 print(name.lstrip())
 
-# .rstrip() remove espaços em branco à direita.
+# .rstrip() remove espaços em branco à direita
 print(name.rstrip())
 
-# .strip() remove os espaços em branco de ambos os lados.
+# .strip() remove os espaços em branco de ambos os lados
 print(name.strip())

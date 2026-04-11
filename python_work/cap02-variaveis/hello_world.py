@@ -1,4 +1,4 @@
-# Variáveis ​​armazenam um valor que pode ser usado ou alterado.
+# Variáveis ​​armazenam um valor que pode ser usado ou alterado
 message = "Hello Python world!"
 print(message)
 

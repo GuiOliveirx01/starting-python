@@ -1,11 +1,11 @@
-# Tudo o que estiver entre aspas é considerado uma string.
+# Tudo o que estiver entre aspas é considerado uma string
 name = "ada lovelace"
 
-# A função .title() deixa a primeira letra de cada palavra maiúscula.
+# A função .title() deixa a primeira letra de cada palavra maiúscula
 print(name.title())
 
 name = "Ada Lovelace"
-# .upper() converte todas as letras para maiúsculas.
+# .upper() converte todas as letras para maiúsculas
 print(name.upper())
 
 # .lower() converte todas as letras para minúsculas.
