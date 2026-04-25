@@ -6,6 +6,6 @@ print(14 - 6)
 print(4 * 2)
 print(16 / 2)
 
-number = 8128
+number = 10
 message = "Meu número favorito é " + str(number) + "!"
 print(message)
