@@ -1,3 +1,2 @@
-# Armazena uma mensagem em uma variável e a exibe na tela
-message = "Estou começando a estudar a linguagem Python!"
+message = "Eu estou começando a estudar Python!"
 print(message)
