@@ -19,7 +19,6 @@ Os programas presentes aqui são exercícios simples focados em praticar os conc
 
 - Python 3
 - Git
-- Linux
 
 ## 📖 Fontes de estudo
 
