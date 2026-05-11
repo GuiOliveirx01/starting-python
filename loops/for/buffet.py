@@ -6,7 +6,8 @@ for dish in dishes:
 
 # dishes[0] = "pizza"  # This will raise a TypeError since tuples are immutable.
 
-dishes = ("pizza", "omelete", "salada", "fritas com cheddar e bacon", "asinhas de frango")  # To change the dishes, we need to create a new tuple.
+# To change the dishes, we need to create a new tuple.
+dishes = ("pizza", "omelete", "salada", "fritas com cheddar e bacon", "asinhas de frango")
 
 print("\nO buffet agora oferece os seguintes pratos:")
 for dish in dishes:
