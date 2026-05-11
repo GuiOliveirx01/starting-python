@@ -7,13 +7,15 @@ print(scientist_name.upper())
 print(scientist_name.title())
 
 print(
-    'Albert Einstein certa vez disse: "A mente que se abre a uma nova ideia ' \
+    'Albert Einstein certa vez disse: "A mente que se abre a uma nova ideia '
     'jamais voltará ao seu tamanho original."'
     )
 
 famous_person = "Robert Oppenheimer"
-message = f'"O otimista pensa que este é o melhor de todos os mundos ' \
-f'possíveis. O pessimista receia que isso seja verdade." – {famous_person}'
+message = (
+    f'"O otimista pensa que este é o melhor de todos os mundos '
+    f'possíveis. O pessimista receia que isso seja verdade." – {famous_person}'
+)
 print(message)
 
 another_name = "\tAlan Turing\n"
