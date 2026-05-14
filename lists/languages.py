@@ -1,5 +1,6 @@
 # ======= CRIANDO LISTA =======
 languages = []
+
 print(languages)
 
 print()
