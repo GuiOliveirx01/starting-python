@@ -9,8 +9,11 @@ The files in this repository consist of practical exercises focused on Python fu
 ## 📂 Repository Structure
 
 variables/ -> variables and basic data types
+
 lists/ -> lists and slicing
+
 loops/ -> repetition structures
+
 conditionals/ -> conditional statements
 
 ## 🚀 Study Progress
