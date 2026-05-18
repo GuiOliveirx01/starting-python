@@ -6,17 +6,17 @@ places = [
     'austrália'
 ]
 
-print("Here is the orginal list:")
+print("Here is the original list:")
 print(places)
 
-# sorted() cria uma versão ordenada sem alterar a lista original
+# sorted() creates a sorted copy without changing the original list
 print("\nHere is the sorted list:")
 print(sorted(places))
 
 print("\nHere is the original list again:")
 print(places)
 
-# reverse() inverte a ordem atual da lista
+# reverse() reverses the current order of the list
 places.reverse()
 
 print("\nHere is the reverse list:")
@@ -27,13 +27,13 @@ places.reverse()
 print("\nHere is the original list one more time:")
 print(places)
 
-# sort() altera permanentemente a lista
+# sort() permanently changes the list
 places.sort()
 
 print("\nHere is the sorted list again:")
 print(places)
 
-# Ordena em ordem reversa (Z → A)
+# Order in reverse order (Z → A)
 places.sort(reverse=True)
 
 print("\nHere is the reverse sorted list:")
