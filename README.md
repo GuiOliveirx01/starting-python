@@ -1,29 +1,39 @@
-# starting-python
+# Starting Python
 
-Este repositório foi criado com o objetivo de compartilhar minha introdução e evolução na linguagem Python.
+This repository was created to document my Python learning journey, gathering exercises, practices, and projects developed throughout my studies.
 
-## 📚 Conteúdo
+## 📚 Content
 
-Os programas presentes aqui são exercícios simples focados em praticar os conceitos fundamentais da linguagem Python, com o objetivo de evoluir de programador iniciante para avançado.
+The files in this repository consist of practical exercises focused on Python fundamentals, created to strengthen programming logic and coding best practices.
 
-## 🚀 Progresso dos estudos
+## 📂 Repository Structure
 
-- [x] Variáveis
-- [x] Strings
-- [x] Listas
-- [x] Loops `for`
-- [ ] Funções
+variables/       -> variables and basic data types
+lists/           -> lists and slicing
+loops/       -> repetition structures
+conditionals/ -> conditional statements
+
+## 🚀 Study Progress
+
+- [x] Variables
+- [x] Lists
+- [x] `for` Loops
+- [x] Tuples
+- [x] Conditional Statements
+- [ ] `while` Loops
+- [ ] Functions
+- [ ] Dictionaries
 - [ ] Classes
+- [ ] File Handling
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
-- Python 3
-- Git
+* Python 3
+* Git
 
-## 📖 Fontes de estudo
+## 📖 Study Sources
+* In-person classes with a mentor
+  My first contact with the Python language.
 
-* Aulas presenciais com mentor  
-Primeiro contato com a linguagem Python.
-
-* Livro *Curso Intensivo de Python*, por Eric Matthes  
-Minha principal fonte de estudos atualmente.
+* Book Python Crash Course, by Eric Matthes
+  Currently my main study source.
