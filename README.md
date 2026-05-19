@@ -12,7 +12,10 @@ variables/ -> variables and basic data types
 
 lists/ -> lists and slicing
 
+tuples/ -> tuples and immutable data types
+
 loops/ -> repetition structures
+
 
 conditionals/ -> conditional statements
 
