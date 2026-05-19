@@ -9,7 +9,7 @@ animals = [
 for animal in animals:
     print(f"O {animal} é um mamífero.")
 
-print("Todos eles comem toneladas de plantas e frutas!")
+print("Todos eles são grandes mamíferos herbívoros.")
 
 print("\nOs três primeiros animais da lista são:")
 
