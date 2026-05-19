@@ -22,6 +22,7 @@ Esta pasta contém exercícios e pequenos programas desenvolvidos durante meus e
 - Organização e ordenação de dados
 - Uso de listas vazias
 - Repetição automatizada com loops
+- Criar fatias e copiar listas
 
 ## 📂 Arquivos
 
