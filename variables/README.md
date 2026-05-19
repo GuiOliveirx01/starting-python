@@ -1,31 +1,31 @@
-# Variáveis em Python
+# Python Variables
 
-Esta pasta contém exercícios e pequenos programas desenvolvidos durante meus estudos sobre variáveis e manipulação de strings em Python.
+This folder contains exercises and small programs developed during my studies on variables and string manipulation in Python.
 
-## 📚 Conceitos praticados
+## 📚 Practiced Concepts
 
-- Criação de variáveis
-- Impressão de mensagens com `print()`
-- Uso de `f-strings`
-- Métodos de strings:
+- Creating variables
+- Printing messages with `print()`
+- Using `f-strings`
+- String methods:
   - `.title()`
   - `.upper()`
   - `.lower()`
   - `.strip()`
-- Quebra de linhas e formatação
-- Operações matemáticas básicas
-- Reatribuição de variáveis
+- Line breaks and formatting
+- Basic mathematical operations
+- Variable reassignment
 
-## 📂 Arquivos
+## 📂 Files
 
-- `hello_world.py` → Primeiros testes com `print()`
-- `simple_message.py` → Armazenando mensagens em variáveis
-- `simple_messages.py` → Atualização de valores em variáveis
-- `apostrophe.py` → Uso de apóstrofos em strings
-- `name_cases.py` → Manipulação e formatação de textos
-- `numbers.py` → Operações matemáticas básicas
-- `name.py` → Uso do método `.title()`
+- `hello_world.py` → First tests with `print()`
+- `simple_message.py` → Storing messages in variables
+- `simple_messages.py` → Updating variable values
+- `apostrophe.py` → Using apostrophes in strings
+- `name_cases.py` → Text manipulation and formatting
+- `basic_math.py` → Basic mathematical operations
+- `name_formatting.py` → Using the `.title()` method
 
-## 🚀 Objetivo
+## 🚀 Goal
 
-Praticar os fundamentos da linguagem Python e desenvolver códigos cada vez mais organizados e legíveis.
+Practice the fundamentals of the Python language and develop increasingly organized and readable code.
