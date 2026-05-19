@@ -15,6 +15,7 @@ Esta pasta contém exercícios e pequenos programas desenvolvidos durante meus e
   - `.remove()`
   - `.sort()`
   - `.reverse()`
+- Funções:
   - `min()`
   - `max()`
   - `sum()`
