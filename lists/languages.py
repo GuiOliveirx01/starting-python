@@ -1,11 +1,11 @@
-# ===== CRIANDO LISTA =====
+# ===== CREATING LIST =====
 languages = []
 
 print(languages)
 
 print()
 
-# ===== ADICIONANDO ITENS =====
+# ===== ADDING ITEMS =====
 languages.append('Python')
 languages.append('JavaScript')
 languages.append('C#')
@@ -22,7 +22,7 @@ print(languages)
 
 print()
 
-# ===== REMOVENDO ITENS =====
+# ===== REMOVING ITEMS =====
 del languages[0]
 languages.pop(1)
 languages.remove('C#')
@@ -31,7 +31,7 @@ print(languages)
 
 print()
 
-# ===== ORGANIZANDO LISTA =====
+# ===== ORGANIZING LIST =====
 languages.sort(reverse=True)
 print(languages)
 
