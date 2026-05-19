@@ -21,7 +21,7 @@ dishes = (
     "salada", 
     "fritas com cheddar e bacon", 
     "asinhas de frango"
-    )
+)
 
 print("\nO buffet agora oferece os seguintes pratos:")
 
