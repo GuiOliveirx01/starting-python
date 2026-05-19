@@ -1,18 +1,18 @@
-# Tuplas em Python
+# Python Tuples
 
-Esta pasta contém exercícios desenvolvidos durante meus estudos sobre tuplas em Python.
+This folder contains exercises developed during my studies on tuples in Python.
 
-## 📚 Conceitos praticados
+## 📚 Practiced Concepts
 
-- Criação de tuplas
-- Imutabilidade
-- Loops `for`
-- Reatribuição de tuplas
+- Creating tuples
+- Immutability
+- `for` loops
+- Tuple reassignment
 
-## 📂 Arquivos
+## 📂 Files
 
-- `buffet.py` → Trabalhando com tuplas e seus valores imutáveis
+- `buffet.py` → Working with tuples and their immutable values
 
-## 🚀 Objetivo
+## 🚀 Goal
 
-Praticar o uso de tuplas e entender suas diferenças em relação às listas.
+Practice the use of tuples and understand their differences compared to lists.
