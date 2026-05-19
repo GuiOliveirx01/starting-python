@@ -1,42 +1,46 @@
-# Listas em Python
+# Python Lists
 
-Esta pasta contém exercícios e pequenos programas desenvolvidos durante meus estudos sobre listas em Python.
+This folder contains exercises and small programs developed during my studies on Python lists.
 
-## 📚 Conceitos praticados
+## 📚 Practiced Concepts
 
-- Criação de listas
-- Acesso a itens por índice
-- Uso de loops `for`
-- Manipulação de strings com listas
-- Métodos de listas:
+- Creating lists
+- Accessing items by index
+- Using `for` loops
+- String manipulation with lists
+- List methods:
   - `.append()`
   - `.insert()`
   - `.pop()`
   - `.remove()`
   - `.sort()`
   - `.reverse()`
-- Funções:
+- Built-in functions for numeric lists:
   - `min()`
   - `max()`
   - `sum()`
-- Uso da função `sorted()`
-- Remoção de itens com `del`
-- Contagem de itens com `len()`
-- Alteração de valores dentro de listas
-- Organização e ordenação de dados
-- Uso de listas vazias
-- Repetição automatizada com loops
-- Criar fatias e copiar listas
+- Using the `sorted()` function
+- Removing items with `del`
+- Counting items with `len()`
+- Modifying values inside lists
+- Organizing and sorting data
+- Using empty lists
+- Automated repetition with loops
+- Creating slices and copying lists
 
-## 📂 Arquivos
+## 📂 Files
 
-- `names.py` → Percorrendo listas com `for`
-- `greetings.py` → Mensagens personalizadas usando listas
-- `cars.py` → Acesso a itens específicos de uma lista
-- `places.py` → Ordenação e organização de listas
-- `languages.py` → Adicionando, removendo e organizando itens
-- `guests.py` → Manipulação completa de listas em um programa maior
+- `names.py` → Iterating through lists with `for`
+- `greetings.py` → Personalized messages using lists
+- `cars.py` → Accessing specific items in a list
+- `places.py` → Sorting and organizing lists
+- `languages.py` → Adding, removing, and organizing items
+- `guests.py` → Complete list manipulation in a larger program
+- `pizzas.py` → Loops and personalized messages with lists
+- `animals.py` → Iterating through lists and item-related messages
+- `foods.py` → Copying lists and list independence
+- `number_statistics.py` → Basic statistics using numeric lists
 
-## 🚀 Objetivo
+## 🚀 Goal
 
-Praticar o uso de listas em Python e desenvolver códigos mais organizados, legíveis e estruturados.
+Practice the use of lists in Python and develop more organized, readable, and structured code.
