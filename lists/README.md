@@ -15,6 +15,9 @@ Esta pasta contém exercícios e pequenos programas desenvolvidos durante meus e
   - `.remove()`
   - `.sort()`
   - `.reverse()`
+  - `min()`
+  - `max()`
+  - `sum()`
 - Uso da função `sorted()`
 - Remoção de itens com `del`
 - Contagem de itens com `len()`
