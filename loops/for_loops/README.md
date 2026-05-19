@@ -1,25 +1,25 @@
-# Loops em Python
+# Python Loops
 
-Esta pasta contém exercícios desenvolvidos durante meus estudos sobre loops e repetição em Python.
+This folder contains exercises developed during my studies on loops and repetition in Python.
 
-## 📚 Conceitos praticados
+## 📚 Practiced Concepts
 
-- Loops `for`
-- Uso da função `range()`
-- List comprehension
-- Sequências numéricas
-- Repetição automatizada
-- Geração de listas com loops
+- `for` loops
+- Using the `range()` function
+- List comprehensions
+- Numeric sequences
+- Automated repetition
+- Generating lists with loops
 
-## 📂 Arquivos
+## 📂 Files
 
-- `range_loop.py` → Contagem usando `range()`
-- `odd_numbers.py` → Números ímpares com `range()`
-- `multiples.py` → Múltiplos de 3
-- `cubes.py` → Calculando cubos com loops
-- `list_comprehension.py` → Gerando listas com list comprehension
-- `one_million.py` → Trabalhando com grandes sequências numéricas
+- `range_loop.py` → Counting using `range()`
+- `odd_numbers.py` → Odd numbers with `range()`
+- `multiples.py` → Multiples of 3
+- `cubes.py` → Calculating cubes with loops
+- `list_comprehension.py` → Generating lists with list comprehensions
+- `one_million.py` → Working with large numeric sequences
 
-## 🚀 Objetivo
+## 🚀 Goal
 
-Praticar estruturas de repetição e automatizar tarefas usando loops em Python.
+Practice repetition structures and automate tasks using loops in Python.
