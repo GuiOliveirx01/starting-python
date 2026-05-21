@@ -1,24 +1,24 @@
-# Python conditionals
+# Python Conditionals
 
-This folder contains exercises developing during my studies on conditionals in Python.
+This folder contains exercises developed during my studies on conditionals in Python.
 
-## 📚 Praticed concepts
+## 📚 Practiced Concepts
 
 - Conditional tests
-- Equality and unequal tests with strings
-- Using the lower() function tests
+- Equality and inequality tests with strings
+- Using the `lower()` function in tests
 - Numeric comparisons:
-  - Equality and unequal numeric tests
-  - greater than and less than
-  - greater than or equal to
-  - less than or equal to
-- Using 'and' & 'or' reserved words tests
-- Tests that use 'in' or 'not in' to check if an item is in a list or not.
+  - Equality and inequality tests
+  - Greater than and less than
+  - Greater than or equal to
+  - Less than or equal to
+- Using the `and` and `or` reserved words in tests
+- Tests that use `in` or `not in` to check whether an item is in a list
 
 ## 📂 Files
 
-conditional_tests.py -> creating some conditional tests
+- `conditional_tests.py` → Creating some conditional tests
 
 ## 🚀 Goal
 
-Practice using conditionals and understand how they allow code to take different paths depending on the outcome of comparisons.
+Practice the use of conditionals in Python and understand how they allow code to take different paths depending on the outcome of comparisons.
