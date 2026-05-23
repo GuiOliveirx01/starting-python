@@ -21,7 +21,7 @@ This folder contains exercises developed during my studies on conditionals in Py
 ## 📂 Files
 
 - `conditional_tests.py` → Creating some conditional tests
-- `alien_colors.py` → Creating if-elif-else chain and random.choice
+- `alien_colors.py` → Creating if-elif-else chain with random.choice
 - `life_stages.py` → Creating numeric comparisons with user input
 
 ## 🚀 Goal
