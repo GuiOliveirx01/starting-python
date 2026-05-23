@@ -14,10 +14,15 @@ This folder contains exercises developed during my studies on conditionals in Py
   - Less than or equal to
 - Using the `and` and `or` reserved words in tests
 - Tests that use `in` or `not in` to check whether an item is in a list
+- if-elif-else statements
+- User input
+- String conversion using `int()`
 
 ## 📂 Files
 
 - `conditional_tests.py` → Creating some conditional tests
+- `alien_colors.py` → Creating if-elif-else chain and random.choice
+- `life_stages.py` → Creating numeric comparisons with user input
 
 ## 🚀 Goal
 
