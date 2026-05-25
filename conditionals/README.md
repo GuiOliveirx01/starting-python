@@ -27,13 +27,13 @@ This folder contains exercises developed during my studies on conditionals in Py
 
 - `life_stages.py` → Creating numeric comparisons with user input
 
-`favorite_fruits.py` → Creating if chain
+- `favorite_fruits.py` → Creating if chain
 
-`hello_admin.py` → Interactions between loops and conditions
+- `hello_admin.py` → Interactions between loops and conditions
 
-`users.py` → User registration simulation
+- `users.py` → User registration simulation
 
-`ordinal_numbers.py`→ if-elif-else statement with ordinal numbers
+- `ordinal_numbers.py`→ if-elif-else statement with ordinal numbers
 
 
 ## 🚀 Goal
