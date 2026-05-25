@@ -38,8 +38,6 @@ conditionals/ -> conditional statements
 * Git
 
 ## 📖 Study Sources
-* In-person classes with a mentor
-  - My first contact with the Python language.
 
 * Book Python Crash Course, by Eric Matthes
-  - Currently my main study source.
+  Currently my main study source.
