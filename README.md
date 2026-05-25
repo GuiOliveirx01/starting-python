@@ -26,9 +26,9 @@ conditionals/ -> conditional statements
 - [x] `for` Loops
 - [x] Tuples
 - [x] Conditional Statements
+- [ ] Dictionaries
 - [ ] `while` Loops
 - [ ] Functions
-- [ ] Dictionaries
 - [ ] Classes
 - [ ] File Handling
 
