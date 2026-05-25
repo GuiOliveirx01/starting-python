@@ -17,16 +17,22 @@ This folder contains exercises developed during my studies on conditionals in Py
 - if-elif-else statements
 - User input
 - String conversion using `int()`
-Using if statements with lists
+- Using if statements with lists
 
 ## 📂 Files
 
 - `conditional_tests.py` → Creating some conditional tests
+
 - `alien_colors.py` → Creating if-elif-else chain with random.choice
+
 - `life_stages.py` → Creating numeric comparisons with user input
+
 `favorite_fruits.py` → Creating if chain
-`hello_admin.py` → Interactions between loops and conditions 
+
+`hello_admin.py` → Interactions between loops and conditions
+
 `users.py` → User registration simulation
+
 `ordinal_numbers.py`→ if-elif-else statement with ordinal numbers
 
 
