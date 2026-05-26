@@ -41,4 +41,7 @@ dictionaries/ -> dictionaries and related data
 ## 📖 Study Sources
 
 * Book Python Crash Course, by Eric Matthes
-  Currently my main study source.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
