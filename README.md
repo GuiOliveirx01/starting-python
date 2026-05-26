@@ -12,12 +12,13 @@ variables/ -> variables and basic data types
 
 lists/ -> lists and slicing
 
-tuples/ -> tuples and immutable data types
-
 loops/ -> repetition structures
 
+tuples/ -> tuples and immutable data types
 
 conditionals/ -> conditional statements
+
+dictionaries/ -> dictionaries and related data 
 
 ## 🚀 Study Progress
 
@@ -26,7 +27,7 @@ conditionals/ -> conditional statements
 - [x] `for` Loops
 - [x] Tuples
 - [x] Conditional Statements
-- [ ] Dictionaries
+- [x] Dictionaries
 - [ ] `while` Loops
 - [ ] Functions
 - [ ] Classes
