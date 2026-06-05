@@ -1,47 +1,79 @@
 # Starting Python
 
-This repository was created to document my Python learning journey, gathering exercises, practices, and projects developed throughout my studies.
+🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
 
-## 📚 Content
+This repository documents my Python learning journey through practical exercises and study materials developed while exploring the fundamentals of programming.
 
-The files in this repository consist of practical exercises focused on Python fundamentals, created to strengthen programming logic and coding best practices.
+The main goal of this project is to build a strong foundation in Python, improve problem-solving skills, and develop good programming practices through consistent practice.
+
+## 📚 About the Repository
+
+This repository contains exercises and examples covering fundamental Python concepts. Each folder focuses on a specific topic studied during the learning process.
 
 ## 📂 Repository Structure
 
-variables/ -> variables and basic data types
+```text
+starting-python/
+├── variables/
+├── lists/
+├── loops/
+├── tuples/
+├── conditionals/
+└── dictionaries/
+```
 
-lists/ -> lists and slicing
+## 💡 Concepts Practiced
 
-loops/ -> repetition structures
-
-tuples/ -> tuples and immutable data types
-
-conditionals/ -> conditional statements
-
-dictionaries/ -> dictionaries and related data 
+* Variables and data types
+* Lists and slicing
+* Tuples and immutable data
+* Conditional statements
+* Loop structures
+* Dictionary manipulation
+* Programming logic
+* Problem solving
 
 ## 🚀 Study Progress
 
-- [x] Variables
-- [x] Lists
-- [x] `for` Loops
-- [x] Tuples
-- [x] Conditional Statements
-- [x] Dictionaries
-- [ ] `while` Loops
-- [ ] Functions
-- [ ] Classes
-- [ ] File Handling
+* [x] Variables
+* [x] Lists
+* [x] For Loops
+* [x] Tuples
+* [x] Conditional Statements
+* [x] Dictionaries
+* [ ] While Loops
+* [ ] Functions
+* [ ] Classes and Objects
+* [ ] File Handling
 
 ## 🛠️ Technologies Used
 
 * Python 3
 * Git
+* GitHub
 
-## 📖 Study Sources
+## ▶️ Running the Exercises
 
-* Book Python Crash Course, by Eric Matthes
+Clone the repository:
+
+```bash
+git clone https://github.com/GuiOliveirx01/starting-python.git
+```
+
+Navigate to any folder and run the desired Python file:
+
+```bash
+python filename.py
+```
+
+## 📖 Study Resources
+
+* Python Crash Course — Eric Matthes
+
+## 📌 Status
+
+This repository is actively updated as I progress through my Python studies.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more information.
