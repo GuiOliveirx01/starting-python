@@ -1,12 +1,33 @@
+"""
+Concepts practiced:
+- Variables
+- f-strings
+- String methods
+- String formatting
+- Escape characters
+
+Methods:
+- .lower() -> Returns a copy of the string with all characters lowercase.
+- .upper() -> Returns a copy of the string with all characters uppercase.
+- .title() -> Returns a copy of the string with the first letter of each word capitalized.
+- .lstrip() -> Removes leading whitespace.
+- .rstrip() -> Removes trailing whitespace.
+- .strip() -> Removes leading and trailing whitespace.
+
+Escape characters:
+- \t -> Inserts a horizontal tab.
+- \n -> Inserts a new line.
+"""
+
 user_name = "Guilherme"
 
 print(f"Alô {user_name}, você gostaria de aprender um pouco de Python hoje?")
 
-scientist_name = "Ada Lovelace"
+person_name = "Ada Lovelace"
 
-print(scientist_name.lower())
-print(scientist_name.upper())  
-print(scientist_name.title())
+print(person_name.lower())
+print(person_name.upper())
+print(person_name.title())
 
 print(
     'Albert Einstein certa vez disse: "A mente que se abre a uma nova ideia '
@@ -22,6 +43,7 @@ message = (
 
 print(message)
 
+# String containing extra whitespace characters.
 another_name = "\tAlan Turing\n"
 
 print(another_name)

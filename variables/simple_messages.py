@@ -1,5 +1,16 @@
-message = "Python foi criada em 1989 por Guido van Rossum."
+"""
+Concepts practiced:
+- Variables
+- Variable reassignment
+- Output with print()
+
+Functions:
+- print() -> Displays text or values in the console.
+"""
+
+message = "Python was created in 1989 by Guido van Rossum."
 print(message)
 
-message = "O nome da linguagem é derivado do grupo de comédia Monty Python."
+# Reassign a new value to the same variable.
+message = "The name of the language comes from the comedy group Monty Python."
 print(message)
